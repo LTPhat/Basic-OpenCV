@@ -1,0 +1,14 @@
+
+OpenCV (Open Computer Vision) là một thư viện mã nguồn mở hàng đầu cho xử lý về thị giác máy tính, machine learning, xử lý ảnh. 
+OpenCV đươc viết bằng C/C++, vì vậy có tốc độ tính toán rất nhanh, có thể sử dụng với các ứng dụng liên quan đến thời gian thực. 
+Opencv có các interface cho C/C++, Python Java vì vậy hỗ trợ được cho Window, Linux, MacOs lẫn Android, iOS.
+OpenCV có cộng đồng hơn 47 nghìn người dùng và số lượng download vượt quá 6 triệu lần
+
+
+Opencv có rất nhiều ứng dụng:
+
+- Nhận dạng ảnh
+- Xử lý hình ảnh
+- Phục hồi hình ảnh/video
+- Thực tế ảo
+- Các ứng dụng khác
